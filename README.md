@@ -55,6 +55,7 @@ Fork, branch, commit, push, and PR as described above.
 
 
 ## Contact
-
+Nguyen Minh Tri
 - GitHub: [tri01012002](https://github.com/tri01012002)
 - Email: tringuyen.01012002@gmail.com
+
