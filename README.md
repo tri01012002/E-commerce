@@ -27,5 +27,34 @@ This is a full-stack e-commerce platform designed to provide a seamless shopping
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/tri01012002/E-commerce.git
-cd E-commerce
+- git clone https://github.com/tri01012002/E-commerce.git
+- cd E-commerce
+
+2. Install dependencies:
+- npm install
+  
+3. Set up environment variables (`.env`):
+- DATABASE_URL=mongodb://localhost/ecommerce
+- JWT_SECRET=your_secret_key
+
+4. Run the app:
+- npm start
+
+
+Access at `http://localhost:8000`.
+
+## Usage
+
+- Register/login as a user.
+- Browse products and add to cart.
+- Proceed to checkout for payment simulation.
+
+## Contributing
+
+Fork, branch, commit, push, and PR as described above.
+
+
+## Contact
+
+- GitHub: [tri01012002](https://github.com/tri01012002)
+- Email: tringuyen.01012002@gmail.com
